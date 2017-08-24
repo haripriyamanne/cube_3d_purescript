@@ -33,13 +33,5 @@ REFERENCES:
 ⦁	I refered google to know the cube angles
 	ex:-  transform : "translateX(-100px) translateY(-100px) translateZ(-100px)"
 
-Please find the below screenshot for the reference
-Output:
-       
- 
-
-Later , i modified the cube with multi-colors
-
-
 
  
